@@ -1,0 +1,32 @@
+{
+  "name": "Sentence Builder Practice App V1.7",
+  "short_name": "Sentence Builder",
+  "description": "Picture spelling + sentence building practice for G1-G12 English learners (EN/MM).",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#140f2e",
+  "theme_color": "#140f2e",
+  "lang": "my",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

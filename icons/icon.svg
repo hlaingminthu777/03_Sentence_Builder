@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect width="512" height="512" fill="#3fd0ff"/>
+<circle cx="430" cy="90" r="120" fill="#8be36b" stroke="#0b0820" stroke-width="10"/>
+<g font-family="DejaVu Sans" font-weight="bold" font-size="120" text-anchor="middle" stroke="#0b0820" stroke-width="10">
+<rect x="70" y="300" width="372" height="10" rx="5" fill="#0b0820"/>
+<g transform="rotate(-8 140 230)"><rect x="80" y="160" width="120" height="132" rx="26" fill="#0b0820"/><rect x="80" y="148" width="120" height="132" rx="26" fill="#ff5fa2"/></g>
+<g><rect x="196" y="144" width="120" height="132" rx="26" fill="#0b0820"/><rect x="196" y="132" width="120" height="132" rx="26" fill="#ffd23f"/></g>
+<g transform="rotate(7 372 230)"><rect x="312" y="160" width="120" height="132" rx="26" fill="#0b0820"/><rect x="312" y="148" width="120" height="132" rx="26" fill="#fff4"/><rect x="312" y="148" width="120" height="132" rx="26" fill="#f4efff"/></g>
+</g>
+<g font-family="DejaVu Sans" font-weight="bold" font-size="96" text-anchor="middle" fill="#0b0820">
+<text x="140" y="250" transform="rotate(-8 140 230)">A</text><text x="256" y="232">b</text><text x="372" y="250" transform="rotate(7 372 230)">c</text>
+</g>
+<path d="M150 380 h212" stroke="#0b0820" stroke-width="10" stroke-linecap="round" stroke-dasharray="2 26"/>
+<path d="M120 420 q136 40 272 0" fill="none" stroke="#0b0820" stroke-width="14" stroke-linecap="round"/>
+</svg>

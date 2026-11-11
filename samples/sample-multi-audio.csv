@@ -1,0 +1,4 @@
+Type,Sentence,AlsoCorrect,Image,Hint,Audio,Start,End
+sentence,We| like| music.,,,,one,0.5,1.5
+sentence,We| read| books.,,,,TWO.WAV,2,3
+sentence,I| like| cats.,,,,,,
